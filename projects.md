@@ -12,9 +12,8 @@ title: Projects
 A simulated mini-project demonstrating cytokine analysis using ggplot2 and dplyr in R.  
 Includes visualization (boxplots) and summary statistics.
 
-[🧾 View Repository](https://github.com/dkMarina/Cytokine_ELISA_Analysis)
-![View Cytokine Boxplot](assets/cytokine_plot.png)
-
+[🧾 View Repository](https://github.com/dkMarina/Cytokine_ELISA_Analysis)  
+  [View Cytokine Boxplot](assets/cytokine_plot.png)
 
 ---
 
