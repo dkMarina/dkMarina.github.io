@@ -13,7 +13,7 @@ A simulated mini-project demonstrating cytokine analysis using ggplot2 and dplyr
 Includes visualization (boxplots) and summary statistics.
 
 [🧾 View Repository](https://github.com/dkMarina/Cytokine_ELISA_Analysis)
-[View Cytokine Boxplot](assets/cytokine_plot.png)
+![View Cytokine Boxplot](assets/cytokine_plot.png)
 
 
 ---
