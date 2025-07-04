@@ -1,6 +1,6 @@
 ---
-layout: default
-title: introduction
+layout: page
+title: Introduction
 ---
 
 ---
@@ -18,10 +18,10 @@ and immunostaining, particularly within autophagy research,
 complemented by an international research internship at the Institute for Basic Science (IBS) in South Korea.
 
 
-Explore my CV and featured projects below:
+Explore my CV, Methods Portfolio and featured projects below:
 
 - 🔬 [Projects](projects.md)
-- 📄 [Download CV](assets/CV.pdf)
+- 📄 [Show CV](assets/CV.pdf)
 
 ---
 
