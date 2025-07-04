@@ -1,10 +1,11 @@
-title: "Personal Portfolio"
-description: >-
+title: "Portfolio: Molecular Biotechnology"
+description: >
+  Introduction, CV, lab skills and methods, selected projects in genetics, bioinformatics, wet lab projects including ELISA analysis and autophagy research.
   
 baseurl: "" 
 url: "https://dkMarina.github.io"
 
-theme: minima
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 
