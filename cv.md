@@ -7,4 +7,4 @@ title: CV
 
 [**Download CV as PDF**](assets/CV.pdf)
 
-<iframe src="assets/GitHUB_CV_Portfolio.pdf" width="100%" height="800px"></iframe>
+<iframe src="assets/CV.pdf" width="100%" height="800px"></iframe>
