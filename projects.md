@@ -14,7 +14,7 @@ Includes visualization (boxplots) and summary statistics.
 
 [🧾 View Repository](https://github.com/dkMarina/Cytokine_ELISA_Analysis)
 
-![Boxplot](assets/elisa_boxplot.png)
+![Boxplot](assets/cytokine_plot.png)
 
 ---
 
