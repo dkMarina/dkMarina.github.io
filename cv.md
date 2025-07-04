@@ -1,10 +1,10 @@
 ---
-layout: default
-title: CV
+layout: page
+title: Curriculum Vitae
 ---
 
-# 📄 Curriculum Vitae
+# 📄 CV
 
-[**Download CV as PDF**](assets/CV.pdf)
+[**Open CV**](assets/CV.pdf)
 
 <iframe src="assets/CV.pdf" width="100%" height="800px"></iframe>
