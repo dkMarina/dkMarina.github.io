@@ -27,4 +27,5 @@ Explore my CV, Methods Portfolio and featured projects below:
 ---
 
 📧 maryna.aumayr@gmail.com  
-💻 [GitHub](https://github.com/dkMarina)
+💻 [GitHub](https://github.com/dkMarina)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-username/)
