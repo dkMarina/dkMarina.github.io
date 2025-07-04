@@ -1,7 +1,6 @@
 ---
 layout: default
 title: introduction
----
 
 Bachelor of Science in Molecular Biotechnology  
 Expertise in Scientific Clarity & Cross-Disciplinary Solutions
