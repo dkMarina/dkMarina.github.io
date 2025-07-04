@@ -21,7 +21,7 @@ complemented by an international research internship at the Institute for Basic 
 Explore my CV, Methods Portfolio and featured projects below:
 
 -  [CV](assets/CV.pdf)
--  [Methods&Skills](skills.md)
+-  - [Methods & Skills](/skills/)
 -  [Projects](projects.md)
 
 ---
