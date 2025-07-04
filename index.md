@@ -20,8 +20,9 @@ complemented by an international research internship at the Institute for Basic 
 
 Explore my CV, Methods Portfolio and featured projects below:
 
-- 🔬 [Projects](projects.md)
-- 📄 [Show CV](assets/CV.pdf)
+-  [Projects](projects.md)
+-  [CV](assets/CV.pdf)
+-  [Methods&Skills](skills.md)
 
 ---
 
