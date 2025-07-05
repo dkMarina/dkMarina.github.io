@@ -1,8 +1,13 @@
 ---
 layout: page
-title: 🚀 Projects & Experience Highlights
+title: 🚀 Projects & Experience
+---
 ---
 
+Welcome to my **Selected Projects** — a curated set of hands‑on builds that put theory to work.  
+From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, and a lightweight LIMS prototype, each project spotlights real‑world skills, clear results, and my drive to keep learning by doing.
+
+---
 
 ## Bachelor Team Project: GxP Pharmaceutical Operations  
 _As part of my studies_ — collaborated on a simulated launch of a GMP-compliant pharmaceutical company.  
