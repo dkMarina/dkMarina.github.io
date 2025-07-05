@@ -8,7 +8,7 @@ title: 👋 Welcome
 
 ## From ABCD to ATCG — An Interdisciplinary Journey
 
-Hi, I’m **Maryna Aumayr** — a molecular biotechnology graduate with a linguist’s mind, a teacher’s heart, and a scientist’s curiosity.  
+Hi, I’m **Maryna Aumayr** — a molecular biotechnology graduate bringing a linguist’s eye for detail, a teacher’s communication skills, and a scientist’s analytical mindset.
 I pivoted from the world of words to the language of life sciences, combining creativity, precision, and data-driven thinking.  
 Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon — I’m all in.
 
