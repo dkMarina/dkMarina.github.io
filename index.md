@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 👋 Introduction
+title: 👋 
 
 ---
 # From ABCD to ATCG — Welcome
