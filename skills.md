@@ -4,30 +4,61 @@ title: "Skills & Methods Portfolio"
 permalink: /skills/
 ---
 
+# Skills & Methods Portfolio
+
+This page showcases the hands-on techniques, scientific knowledge, and digital tools I’ve mastered through lab-based training, academic projects, and self-directed learning. It complements the CV and highlights my readiness for real-world work in molecular biotech and beyond.
+
 ---
+
 ## Laboratory Techniques
 
-- ELISA (Single and multiplex)
-- Immunohistochemistry (IHC) & Tissue Staining
-- Cell culture (bacterial and mammalian)
-- RNA and DNA extraction
-- Gel electrophoresis & PCR
+- **Molecular Biology**: PCR · DNA/RNA extraction · Plasmid preparation · Cloning (incl. SnapGene in silico) · Gel electrophoresis · Nucleic acid quantification
+- **Protein Biochemistry**: SDS-PAGE · Western blotting · Protein expression & purification (His-tag / affinity chromatography)
+- **Cell Biology**: Mammalian & bacterial cell culture · Splitting · Cryopreservation · Cell counting · Immunofluorescence staining · Confocal microscopy · Transfection
+- **Microbiology**: Cultivation of bacteria · Antibiotic resistance testing · Sterile techniques
+- **Chemical Methods**: Chromatography (HPLC, TLC) · Titration · Enzyme kinetics & purification · Buffer prep · pH measurement
+- **Histological Techniques**: ELISA (single and multiplex) · Immunohistochemistry (IHC) · Tissue staining
 
-## Data Analysis Tools
+---
 
-- **R** (ggplot2, dplyr, tidyverse, data visualization)
-- **Python** (BioPython, basic scripting for DNA analysis)
-- Excel for lab reporting and data QC
+## Key Tools & Digital Skills
 
-## Scientific Knowledge
+- **Data Analysis**:
+  - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization)
+  - 📁 See [Projects Page](projects.md) | 🔗 [Cytokine ELISA Analysis](https://github.com/dkMarina/Cytokine_ELISA_Analysis)
+  - Python (BioPython · DNA sequence scripting)
+  - 📁 See [Projects Page](projects.md) | 🔗 [Codon Usage Analyzer](https://github.com/dkMarina/Codon_Usage_Analyzer)
+  - Excel (reporting · QC)
+  - ImageJ & Fiji (image analysis)
+  - Git & GitHub (version control, collaboration)
+  - LaTeX & Markdown (scientific writing & formatting)
 
-- Molecular Biology: gene expression, transcription factors
-- Autophagy and nutrient signaling
-- Animal models (e.g., transgenic mice genotyping)
-- Experience with experimental controls and troubleshooting
+- **Bioinformatics**:
+  - BLAST · Sequence alignment · Primer design basics
 
-## Other Skills
+- **LIMS-style Data Tracking**:  
+  - Created a lightweight metadata tracker in R to organize lab samples and experimental variables (📁 see [Project Page](projects.md))
 
-- Git & GitHub version control
-- Scientific writing and data presentation
-- Fluent in English and German
+---
+
+##  Scientific Knowledge & Lab Experience
+
+- Gene expression regulation · Transcription factors · PCR genotyping
+- Autophagy pathways · Nutrient signaling · Starvation models
+- Transgenic animal models (e.g., tf-LC3 mouse for autophagy monitoring)
+- Familiar with experimental controls · Troubleshooting lab protocols
+- Fluent understanding of biosafety · Sample documentation · Quality standards
+
+---
+
+## 💡 Soft Skills & Communication
+
+- Fluent in **English** and **German** · Native **Ukrainian** / **Russian**
+- B2-level **Turkish**, basic **French**
+- Strong **team collaboration** · Excellent **communication** skills
+- High attention to detail · Analytical mindset · Fast learner
+- Experienced in **scientific writing**, data presentation, and tutoring
+
+---
+
+See [CV](assets/CV.pdf) · Visit [Projects](projects.md)
