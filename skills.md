@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills & Methods Toolbox
+title: 🛠️ Skills & Methods Toolbox
 permalink: /skills/
 ---
 
