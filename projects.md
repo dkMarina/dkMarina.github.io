@@ -47,5 +47,5 @@ Bridging complex science and clear communication by:
 - **[Lightweight LIMS Simulation Tool](link-to-your-LIMS-project)** (R or Python) to track experimental metadata
 ---
 
-> _ What’s Next? _  
-Let’s turn potential into impact — I’m ready when you are.
+> ## _What’s Next?_  
+> Let’s turn potential into impact — I’m ready when you are.
