@@ -4,13 +4,13 @@ title: "Skills & Methods"
 permalink: /skills/
 ---
 
-# Skills & Methods
+# 🛠️ Skills & Methods Toolbox 
 
 This page showcases the hands-on techniques, scientific knowledge, and digital tools I’ve mastered through lab-based training, academic projects, and self-directed learning. It complements the CV and highlights my readiness for real-world work in molecular biotech and beyond.
 
 ---
 
-## Laboratory Techniques
+## 🔬 Laboratory Techniques
 
 - **Molecular Biology**: PCR · DNA/RNA extraction · Plasmid preparation · Cloning (incl. SnapGene in silico) · Gel electrophoresis · Nucleic acid quantification
 - **Protein Biochemistry**: SDS-PAGE · Western blotting · Protein expression & purification (His-tag / affinity chromatography)
@@ -21,13 +21,11 @@ This page showcases the hands-on techniques, scientific knowledge, and digital t
 
 ---
 
-## Key Tools & Digital Skills
+## 💻 Key Tools & Digital Skills
 
 - **Data Analysis**:
-  - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization)
-  - 📁 See [Projects Page](projects.md) | 🔗 [Cytokine ELISA Analysis](https://github.com/dkMarina/Cytokine_ELISA_Analysis)
-  - Python (BioPython · DNA sequence scripting)
-  - 📁 See [Projects Page](projects.md) | 🔗 [Codon Usage Analyzer](https://github.com/dkMarina/Codon_Usage_Analyzer)
+  - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization), 📁 See [Projects Page](projects.md) 
+  - Python (BioPython · DNA sequence scripting), 📁 See [Projects Page](projects.md) 
   - Excel (reporting · QC)
   - ImageJ & Fiji (image analysis)
   - Git & GitHub (version control, collaboration)
@@ -41,7 +39,7 @@ This page showcases the hands-on techniques, scientific knowledge, and digital t
 
 ---
 
-##  Scientific Knowledge & Lab Experience
+## 📚  Scientific Knowledge & Lab Experience
 
 - Gene expression regulation · Transcription factors · PCR genotyping
 - Autophagy pathways · Nutrient signaling · Starvation models
@@ -51,7 +49,7 @@ This page showcases the hands-on techniques, scientific knowledge, and digital t
 
 ---
 
-## 💡 Soft Skills & Communication
+## 🎨 Soft Skills & Communication
 
 - Fluent in **English** and **German** · Native **Ukrainian** / **Russian**
 - B2-level **Turkish**, basic **French**
