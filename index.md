@@ -1,9 +1,12 @@
 ---
 layout: page
-title: 👋 
+title: 👋 Welcome
+
 
 ---
-# From ABCD to ATCG — Welcome
+
+
+## From ABCD to ATCG — An Interdisciplinary Journey
 
 Hi, I’m **Maryna Aumayr** — a molecular biotechnology graduate with a linguist’s mind, a teacher’s heart, and a scientist’s curiosity.  
 I pivoted from the world of words to the language of life sciences, combining creativity, precision, and data-driven thinking.  
@@ -11,7 +14,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 
 ---
 
-### 🔍 Explore
+## 🔍 Explore
 
 - 📄 [CV](assets/CV.pdf)
 - 🧪 [Methods & Skills Portfolio](skills.md)
@@ -19,7 +22,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 - 📧 maryna.aumayr@gmail.com  
 - 💻 [GitHub](https://github.com/dkMarina)  
