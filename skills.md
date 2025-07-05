@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Skills & Methods"
+title: 
 permalink: /skills/
 ---
 
@@ -21,7 +21,7 @@ This page showcases the hands-on techniques, scientific knowledge, and digital t
 
 ---
 
-## 💻 Key Tools & Digital Skills
+## 💻 Digital & Data Skills
 
 - **Data Analysis**:
   - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization), 📁 See [Projects Page](projects.md) 
