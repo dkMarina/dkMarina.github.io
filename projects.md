@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Projects
+title: 🚀 Projects & Experience Highlights
 ---
 
-# 🚀 Projects & Experience Highlights
 
 ## Bachelor Team Project: GxP Pharmaceutical Operations  
 _As part of my studies_ — collaborated on a simulated launch of a GMP-compliant pharmaceutical company.  
