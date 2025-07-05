@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Skills & Methods Portfolio"
+title: "Skills & Methods"
 permalink: /skills/
 ---
 
