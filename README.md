@@ -1,2 +1,2 @@
 # dkMarina.github.io
-Academic portfolio with CV, projects, and contact info
+Personalized Protfolie with CV, Skilss and Methoods portfolio, projects, and contact info
