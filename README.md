@@ -7,7 +7,7 @@ Welcome to my professional portfolio — bridging the worlds of language, life s
 This portfolio includes:
 - 📄 [CV](https://dkMarina.github.io/cv)
 - 🧰 [Skills & Methods Toolbox](https://dkMarina.github.io/skills)
-- 💡 [Projects in R, Python, and Wet-Lab Science](https://dkMarina.github.io/projects)
+- 💡 [Projects in R, Python, Wet-Lab Science, GxP & LIMS Concepts](https://dkMarina.github.io/projects)
 
 🔗 **Live Portfolio Website:** [dkMarina.github.io](https://dkMarina.github.io)
 📫 Contact: maryna.aumayr@gmail.com
