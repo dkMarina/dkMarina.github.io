@@ -49,6 +49,7 @@ Bridging complex science and clear communication by:
 - **[DNA Start Codon Finder](link-to-your-Python-project1)**  
 - **[Primer Designer + Melting Temperature Calculator](link-to-your-Python-project2)**  
 - **[Lightweight LIMS Simulation Tool](link-to-your-LIMS-project)** (R or Python) to track experimental metadata
+  
 ---
 
 > ## _What’s Next?_  
