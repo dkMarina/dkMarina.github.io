@@ -22,7 +22,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 
 ---
 
-### 📬 Contact
+#### 📬 Contact
 
 - 📧 maryna.aumayr@gmail.com  
 - 💻 [GitHub](https://github.com/dkMarina)  
