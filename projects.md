@@ -9,7 +9,7 @@ From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, a
 
 ---
 
-## Bachelor Team Project: GxP Pharmaceutical Operations  
+### Bachelor Team Project: GxP Pharmaceutical Operations  
 _As part of my studies_ — collaborated on a simulated launch of a GMP-compliant pharmaceutical company.  
 Key contributions:  
 - Designed company logo  
@@ -21,7 +21,7 @@ _Experience gained_: pharmaceutical quality systems, team collaboration, regulat
 
 ---
 
-## Internship Project – Center for Genome Engineering, IBS Korea  
+### Internship Project – Center for Genome Engineering, IBS Korea  
 Bachelor thesis & internship focused on stem cell immune evasion and developing a [tf‑LC3 reporter mouse model](/assets/tf-LC3.png) to monitor autophagy in GI tissues.  
 Key skills and techniques:  
 - PCR genotyping & mouse tissue preparation  
@@ -32,7 +32,7 @@ Key skills and techniques:
 
 ---
 
-## Freelance Science Communication & Educational Content Development  
+### Freelance Science Communication & Educational Content Development  
 Bridging complex science and clear communication by:  
 - Multilingual translation of biotech and regulatory documents  
 - Designing custom curricula and teaching materials, including a textbook  
@@ -40,12 +40,12 @@ Bridging complex science and clear communication by:
 
 ---
 
-## R & Python Based Projects
+### R & Python Based Projects
 
-### RStudio  
+#### RStudio  
 - **[Cytokine ELISA Analysis](link-to-your-R-project)**: Immunology data visualization and statistics using tidyverse and ggplot2.
 
-### Python Mini-Projects  
+#### Python Mini-Projects  
 - **[DNA Start Codon Finder](link-to-your-Python-project1)**  
 - **[Primer Designer + Melting Temperature Calculator](link-to-your-Python-project2)**  
 - **[Lightweight LIMS Simulation Tool](link-to-your-LIMS-project)** (R or Python) to track experimental metadata
