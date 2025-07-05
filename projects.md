@@ -22,7 +22,7 @@ _Experience gained_: pharmaceutical quality systems, team collaboration, regulat
 ---
 
 ## Internship Project – Center for Genome Engineering, IBS Korea  
-Bachelor thesis & internship focused on stem cell immune evasion and developing a tf-LC3 reporter mouse model to monitor autophagy in GI tissues.  
+Bachelor thesis & internship focused on stem cell immune evasion and developing a [tf‑LC3 reporter mouse model](/assets/tf-LC3.png) to monitor autophagy in GI tissues.  
 Key skills and techniques:  
 - PCR genotyping & mouse tissue preparation  
 - Immunohistochemistry (IHC) & immunofluorescence (IF) staining  
