@@ -47,7 +47,5 @@ Bridging complex science and clear communication by:
 - **[Lightweight LIMS Simulation Tool](link-to-your-LIMS-project)** (R or Python) to track experimental metadata
 ---
 
-## Let’s Talk About Your Preferred Language  
-Interested in the LIMS project or other coding challenges? I’m ready to build and customize projects in R or Python that showcase my data skills and lab expertise.
-
-
+> _ What’s Next? _  
+Let’s turn potential into impact — I’m ready when you are.
