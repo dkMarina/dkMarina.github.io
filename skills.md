@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Skills & Methods
+title: Skills & Methods Toolbos
 permalink: /skills/
 ---
 
-# 🛠️ Skills & Methods Toolbox 
+
 
 This page showcases the hands-on techniques, scientific knowledge, and digital tools I’ve mastered through lab-based training, academic projects, and self-directed learning. It complements the CV and highlights my readiness for real-world work in molecular biotech and beyond.
 
