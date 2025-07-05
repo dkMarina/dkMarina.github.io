@@ -59,4 +59,4 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 ---
 
-See [CV](assets/CV.pdf) · Visit [Projects](projects.md)
+
