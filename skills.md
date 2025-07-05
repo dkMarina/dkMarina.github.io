@@ -10,7 +10,7 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 ---
 
-## 🔬 Laboratory Techniques
+### 🔬 Laboratory Techniques
 
 - **Molecular Biology**: PCR · DNA/RNA extraction · Plasmid preparation · Cloning (incl. SnapGene in silico) · Gel electrophoresis · Nucleic acid quantification
 - **Protein Biochemistry**: SDS-PAGE · Western blotting · Protein expression & purification (His-tag / affinity chromatography)
@@ -21,7 +21,7 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 ---
 
-## 💻 Digital & Data Skills
+### 💻 Digital & Data Skills
 
 - **Data Analysis**:
   - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization), 📁 See [Projects Page](projects.md) 
@@ -39,7 +39,7 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 ---
 
-## 📚  Scientific Knowledge & Lab Experience
+### 📚  Scientific Knowledge & Lab Experience
 
 - Gene expression regulation · Transcription factors · PCR genotyping
 - Autophagy pathways · Nutrient signaling · Starvation models
@@ -49,7 +49,7 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 ---
 
-## 🎨 Soft Skills & Communication
+### 🎨 Soft Skills & Communication
 
 - Fluent in **English** and **German** · Native **Ukrainian** / **Russian**
 - B2-level **Turkish**, basic **French**
