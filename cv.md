@@ -9,7 +9,7 @@ Think of it as a personal cloning vector: compact, functional, and purpose‑bui
 
 ---
 
-### [View CV](assets/CV.pdf)
+#### [View CV](assets/CV.pdf)
 
 <iframe src="assets/CV.pdf" width="100%" height="800px"></iframe>
 
