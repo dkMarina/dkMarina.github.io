@@ -1,8 +1,8 @@
 # dkMarina.github.io
 
-Welcome to my professional portfolio — bridging the worlds of language, life science, and data.
+Welcome to my professional portfolio - at the crossroads of language, life sciences, and data, built to connect ideas, skills, and new opportunities.
 
-🧬 I’m Maryna Aumayr, a molecular biotechnology graduate and science communicator with a background in linguistics.
+🧬 I’m **Maryna Aumayr**, a molecular biotechnology graduate and science communicator with a background in linguistics.
 
 This portfolio includes:
 - 📄 [CV](https://dkMarina.github.io/cv)
