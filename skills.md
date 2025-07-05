@@ -4,7 +4,7 @@ title: "Skills & Methods"
 permalink: /skills/
 ---
 
-# Skills & Methods Portfolio
+# Skills & Methods
 
 This page showcases the hands-on techniques, scientific knowledge, and digital tools I’ve mastered through lab-based training, academic projects, and self-directed learning. It complements the CV and highlights my readiness for real-world work in molecular biotech and beyond.
 
