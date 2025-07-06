@@ -16,7 +16,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 
 #### 🔍 Explore
 
-- 📄 [CV](assets/CV.pdf)
+- 📄 [CV](assets/CV.png)
 - 🧪 [Methods & Skills Toolbox](skills.md)
 - 📁 [Featured Projects](projects.md) — R, Python, lab-based & more
 
