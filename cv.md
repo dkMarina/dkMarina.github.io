@@ -11,6 +11,6 @@ Think of it as a personal cloning vector: compact, functional, and purpose‑bui
 
 #### [View CV](assets/CV.png)
 
-<iframe src="assets/CV.png" width="100%" height="800px"></iframe>
+<img src="assets/CV.png" alt="CV" style="width:100%; max-height:800px;">
 
 
