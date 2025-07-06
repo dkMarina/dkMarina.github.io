@@ -8,7 +8,7 @@ title: 👋 Welcome
 
 #### From ABCD to ATCG — An Interdisciplinary Bridge to Biotech Innovation
 
-Hi, I’m **Maryna Aumayr** — a [molecular biotechnology](assets/FH_Bsc.png) graduate bringing a linguist’s eye for detail, a teacher’s communication skills, and a scientist’s analytical mindset.
+Hi, I’m **Maryna Aumayr** — a [molecular biotechnology](assets/Bsc.png) graduate bringing a linguist’s eye for detail, a teacher’s communication skills, and a scientist’s analytical mindset.
 I pivoted from the world of words to the language of life sciences, combining creativity, precision, and data-driven thinking.  
 Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon — I’m all in.
 
@@ -16,7 +16,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 
 #### 🔍 Explore
 
-- 📄 [CV](assets/CV.png)
+- 📄 [CV](assets/myCV.png)
 - 🧪 [Methods & Skills Toolbox](skills.md)
 - 📁 [Featured Projects](projects.md) — R, Python, lab-based & more
 
