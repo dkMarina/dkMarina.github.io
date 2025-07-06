@@ -46,7 +46,7 @@ Bridging complex science and clear communication by:
 - **[Cytokine ELISA Analysis Project](https://github.com/dkMarina/Cytokine_ELISA_analysis)** - Immunology data visualization and statistics using tidyverse and ggplot2.
 
 #### Python Mini-Projects  
-- **[DNA Start Codon Finder](link-to-your-Python-project1)**  
+- **[DNA Start Codon Finder](https://github.com/dkMarina/start_codon_search)**  
 - **[Primer Designer + Melting Temperature Calculator](link-to-your-Python-project2)**  
 - **[Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker)** — a CLI tool to track experimental sample metadata.
 
