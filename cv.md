@@ -9,5 +9,10 @@ Think of it as a personal cloning vector: compact, functional, and purpose‑bui
 
 ---
 
-<img src="assets/CV.png" alt="CV" style="width:100%;">
+
+<p><a href="#" onclick="document.getElementById('cv-image').style.display='block'; this.style.display='none'; return false;">View CV</a></p>
+
+<img id="cv-image" src="assets/CV.png" alt="CV" style="display:none; width:100%; max-height:800px;">
+
+
 
