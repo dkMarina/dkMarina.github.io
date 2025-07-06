@@ -47,7 +47,7 @@ Bridging complex science and clear communication by:
 
 #### Python Mini-Projects  
 - **[DNA Start Codon Finder](https://github.com/dkMarina/start_codon_search)**  
-- **[Primer Designer + Melting Temperature Calculator](link-to-your-Python-project2)**  
+- **[Primer Toolbox](https://github.com/dkMarina/primer_toolbox)**  
 - **[Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker)** — a CLI tool to track experimental sample metadata.
 
 
