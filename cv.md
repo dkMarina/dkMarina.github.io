@@ -9,6 +9,6 @@ Think of it as a personal cloning vector: compact, functional, and purpose‑bui
 
 ---
 
-[View CV](assets/CV.png)
+[View CV](assets/myCV.png)
 
 
