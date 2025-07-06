@@ -15,7 +15,7 @@ Key contributions:
 - Designed company logo  
 - Coordinated team meetings  
 - Drafted and presented audit milestone scripts  
-- Developed key GMP documents (SOPs, organigrams, risk analysis)  
+- Developed key [GMP documents](/assets/SOP.png) (SOPs, organigrams, risk analysis)  
 - Provided regular operational progress updates  
 _Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
 
