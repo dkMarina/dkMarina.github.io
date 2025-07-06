@@ -5,7 +5,7 @@ Welcome to my professional portfolio - at the crossroads of language, life scien
 🧬 I’m **Maryna Aumayr**, a molecular biotechnology graduate and science communicator with a background in linguistics.
 
 This portfolio includes:
-- 📄 [CV](https://dkMarina.github.io/cv)
+- 📄 [CV](https://dkMarina.github.io/mycv)
 - 🧰 [Skills & Methods Toolbox](https://dkMarina.github.io/skills)
 - 💡 [Projects in R, Python, Wet-Lab Science, GxP & LIMS Concepts](https://dkMarina.github.io/projects)
 
