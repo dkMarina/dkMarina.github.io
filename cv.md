@@ -1,7 +1,6 @@
-
 ---
-title: "📄 Curriculum Vitae"
-
+layout: page
+title: 📄 Curriculum Vitae
 
 ---
 Welcome to my **Curriculum Vitae** — a streamlined snapshot of the key milestones, skills, and turning points that shaped my path.  
