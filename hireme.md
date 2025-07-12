@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Why should you hire me?"
+title: "Why hire me?"
 permalink: /hireme/
 ---
 
