@@ -6,7 +6,7 @@ title: 👋 Welcome
 ---
 
 
-#### From ABCD to ATCG — An Interdisciplinary Bridge to Biotech Innovation
+#### From ABCD to ATCG — Where Grammar Meets Genomes 
 
 Hi, I’m **Maryna Aumayr** — a [molecular biotechnology](assets/Curlum.png) graduate bringing a linguist’s eye for detail, a teacher’s communication skills, and a scientist’s analytical mindset.
 I pivoted from the world of words to the language of life sciences, combining creativity, precision, and data-driven thinking.  
