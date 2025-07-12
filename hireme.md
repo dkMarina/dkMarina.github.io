@@ -4,7 +4,7 @@ title: "Why hire me?"
 permalink: /hireme/
 ---
 
-## Why should you hire me?
+### Why should you hire me?
 
 Because you're looking for someone who fits into the team – but doesn’t disappear in it.  
 Someone who doesn’t pretend to know everything – but knows how to ask the right questions.
