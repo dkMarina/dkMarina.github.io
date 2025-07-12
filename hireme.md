@@ -9,7 +9,7 @@ Why not? Sounds like a win!
 You’re not just after someone to quietly fit in—  
 
 Someone who blends with the team — but still stands tall,  
-Who asks the tough questions and doesn’t drop the ball.  
+Who asks the tough questions and does not drop the ball.  
 
 Biotech and language? I juggle both with flair,  
 Bringing clarity and insight everywhere.  
