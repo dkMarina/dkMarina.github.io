@@ -10,6 +10,18 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+
+nav:
+  - title: "Welcome"
+    url: /
+  - title: "Curriculum Vitae"
+    url: /cv/
+  - title: "Projects & Experience"
+    url: /projects/
+  - title: "Skills & Methods Toolbox"
+    url: /skills/
+  - title: "Why should you hire me?"
+    url: /hireme/
   
 header_pages:
   - index.md
