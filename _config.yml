@@ -14,13 +14,13 @@ plugins:
 nav:
   - title: "Welcome"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
   - title: "Projects & Experience"
     url: /projects/
   - title: "Skills & Methods Toolbox"
     url: /skills/
-  - title: "Why should you hire me?"
+  - title: "Why hire me?"
     url: /hireme/
   
 header_pages:
