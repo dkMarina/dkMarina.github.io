@@ -12,12 +12,12 @@ From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, a
 ### Bachelor Team Project: GxP Pharmaceutical Operations  
 _As part of my studies_ — collaborated on a simulated launch of a [GMP-compliant pharmaceutical company](/assets/Variae.png).  
 Key contributions:  
-- Designed company logo  
-- Coordinated team meetings  
-- Drafted and presented audit milestone scripts  
-- Developed key [GMP documents](/assets/SOP.png) (SOPs, organigrams, risk analysis)  
-- Provided regular operational progress updates  
-_Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
+
+- Designing the company logo to establish a professional brand identity
+- Coordinating and facilitating team meetings to ensure efficient collaboration
+- Drafting and presenting audit milestone scripts that guided compliance reviews
+- Developing essential  [GMP documents](/assets/SOP.png), including SOPs, organizational charts, and risk analyses
+- _Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
 
 ---
 
