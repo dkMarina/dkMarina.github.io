@@ -5,7 +5,7 @@ This folder contains Excel tools developed to support laboratory workflows durin
 ## Files:
 
 - **IF_and_PCR_Solution_Tools.xlsx**  
-  Contains sheets for Immunofluorescence staining solution preparation, PCR master mix calculations.
+  Contains sheets for Immunofluorescence staining solution preparation, PCR Master Mix Preparations, and related calculations.
 
 - **Bradford_and_StandardCurve_Calculators.xlsx**  
   Includes templates for protein quantification with Bradford assay and standard curve plotting for experimental data analysis.
