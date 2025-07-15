@@ -32,11 +32,12 @@ Key skills and techniques:
 
 ---
 
-### Freelance Science Communication & Educational Content Development  
-Bridging complex science and clear communication by:  
-- Multilingual translation of biotech and regulatory documents  
-- Designing custom curricula and teaching materials, including a textbook  
-- Coaching life science students across levels  
+## Lab Tools – Excel-Based Projects
+
+Explore Excel-based calculation and analysis tools I developed to support laboratory workflows as part of my internship, lab-based courses, and Bachelor thesis experiments. These tools include Immunofluorescence (IF) staining solution preparation, CR Master Mix preparations, and protein quantification using Bradford assay.
+
+- [Lab Tools Repository](./lab_tools) — Contains practical Excel sheets used during real lab projects to enhance organization, accuracy, and reproducibility.
+
 
 ---
 
@@ -51,11 +52,13 @@ Bridging complex science and clear communication by:
 - **[Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker)** — a CLI tool to track experimental sample metadata.
 
 
-  
-  
 ---
-
-
+### Freelance Science Communication & Educational Content Development  
+Bridging complex science and clear communication by:  
+- Multilingual translation of biotech and regulatory documents  
+- Designing custom curricula and teaching materials, including a textbook  
+- Coaching life science students across levels  
+---
 
 > ## _What’s Next?_  
 > Let’s turn potential into impact — I’m ready when you are.
