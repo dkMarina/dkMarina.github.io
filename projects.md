@@ -28,7 +28,9 @@ Key skills and techniques:
 - Immunohistochemistry (IHC) & immunofluorescence (IF) staining  
 - Confocal microscopy imaging & analysis  
 - 3D oral epithelial cell culture  
-- Organized structured lab reporting  
+- Organized structured lab reporting
+
+Explore the [Excel-based Lab Tools](./Lab_Tools) I developed to support IF staining workflows, PCR master mix preparations,  as part of my bachelor thesis and internship projects.
 
 ---
 
@@ -44,13 +46,12 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 ### R & Python Based Projects
 
 #### RStudio  
-- **[Cytokine ELISA Analysis Project](https://github.com/dkMarina/Cytokine_ELISA_analysis)** - Immunology data visualization and statistics using tidyverse and ggplot2.
+- [Cytokine ELISA Analysis Project](https://github.com/dkMarina/Cytokine_ELISA_analysis) - Immunology data visualization and statistics using tidyverse and ggplot2.
 
 #### Python Mini-Projects  
-- **[DNA Start Codon Finder](https://github.com/dkMarina/start_codon_search)**  
-- **[Primer Toolbox](https://github.com/dkMarina/primer_toolbox)**  
-- **[Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker)** — a CLI tool to track experimental sample metadata.
-
+- [DNA Start Codon Finder](https://github.com/dkMarina/start_codon_search)
+- [Primer Toolbox](https://github.com/dkMarina/primer_toolbox) 
+- [Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker) — a CLI tool to track experimental sample metadata.
 
 ---
 ### Freelance Science Communication & Educational Content Development  
