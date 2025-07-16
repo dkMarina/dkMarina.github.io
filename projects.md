@@ -36,7 +36,6 @@ Key skills and techniques:
 
 Explore Excel-based calculation and analysis tools I developed to support laboratory workflows as part of my internship, lab-based courses, and Bachelor thesis experiments. These tools include Immunofluorescence (IF) staining solution preparation, CR Master Mix preparations, and protein quantification using Bradford assay.
 
-- [Lab Tools Repository](./Lab_Tools.html) — Contains practical Excel sheets used during real lab projects to enhance organization, accuracy, and reproducibility.
 - [IF and PCR Solution Calculator](./assets/Lab_Tools/IF_and_PCR_Solution_Tools.xlsx)
 - [Bradford & Standard Curve Calculator](./assets/Lab_Tools/Bradford_and_StandardCurve_Calculators.xlsx)
 
