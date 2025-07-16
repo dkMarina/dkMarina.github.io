@@ -30,8 +30,6 @@ Key skills and techniques:
 - 3D oral epithelial cell culture  
 - Organized structured lab reporting
 
-Explore the [Excel-based Lab Tools](./Lab_Tools) I developed to support IF staining workflows, PCR master mix preparations,  as part of my bachelor thesis and internship projects.
-
 ---
 
 ## Lab Tools – Excel-Based Projects
@@ -58,7 +56,8 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 Bridging complex science and clear communication by:  
 - Multilingual translation of biotech and regulatory documents  
 - Designing custom curricula and teaching materials, including a textbook  
-- Coaching life science students across levels  
+- Coaching life science students across levels
+  
 ---
 
 > ## _What’s Next?_  
