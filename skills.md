@@ -25,7 +25,7 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 ### 💻 Digital & Data Skills
 
 - **Data Analysis**:
-  - Excel (lab workflow calculations · reporting · QC), [Lab Tools Examples](./Lab_Tools) 
+  - Excel (lab workflow calculations · reporting · QC)
   - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization), 📁 See [Projects Page](projects.md) 
   - Python (BioPython · DNA sequence scripting), 📁 See [Projects Page](projects.md) 
   - ImageJ & Fiji (image analysis)
