@@ -23,3 +23,9 @@ Curiosity, calm, and smarts matter most.
 When your candidate pool feels crowded and dense,  
 Your choice will be clear — and guess who makes sense?  
 **Spoiler alert: it’s me, no pretense!**
+
+---
+I wrote this poem as a creative take on the classic "Why should we hire you?" question — blending biotech, language, and mindset into one short pitch.
+
+ Because applying for jobs shouldn't mean hiding your voice.
+ Especially when your voice is your value.
