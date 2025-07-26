@@ -8,5 +8,6 @@ layout: page
 **University Lecturer | Research Scientist**
 
 📄 [View Reference Snapshot](/assets/snapshot2.png)  
+<br>
 *Full contact details available upon request.*
 
