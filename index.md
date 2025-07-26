@@ -36,7 +36,8 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 
 What soft skills matter most for young professionals entering biotech and life sciences?
 
-I've launched a short, anonymous survey (about 2 minutes) to learn from people in the field — hiring managers, team leads, and early-career scientists alike.
+I've launched a short, anonymous survey (about 2 minutes) to learn from people in the field — hiring managers, team leads, managers, and talent scouts in life sciences.
+
 
 
 👉 [Take the survey here](https://lnkd.in/dCs4Bej8)<br>
@@ -47,11 +48,12 @@ I've launched a short, anonymous survey (about 2 minutes) to learn from people i
 <details>
 <summary>Click to expand</summary>
 
-Young scientists prepare more effectively for real job expectations  
-Build transparency between teams and job seekers  
-Guide better career conversations
+Young scientists prepare more effectively for real job expectations  <br>
+Build transparency between teams and job seekers  <br>
+Guide better career conversations <br>
 
 </details>
+
 
 ---
 
