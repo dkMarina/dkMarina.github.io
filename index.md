@@ -24,7 +24,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 #### 📄 References
 
 📌 I’m happy to provide references upon request.  
-🔗 [View sample reference snapshots](./reference1.md)  
+🔗 [View sample reference snapshots](references.md) 
 *(Full names and contact details are kept private and available on request.)*
 
 ---
