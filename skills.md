@@ -36,6 +36,7 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 
 </details>
 
+<br>
 
 ### 💻 Digital & Data Skills
 
@@ -58,7 +59,7 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 - **LIMS-style Data Tracking**:  
   - Created a lightweight metadata tracker in R to organize lab samples and experimental variables (📁 see [Project Page](projects.md))
 </details>
-
+<br>
 
 ### 📚  Scientific Knowledge & Lab Experience
 
@@ -73,6 +74,7 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 - Fluent understanding of biosafety · Sample documentation · Quality standards
 
 </details>
+<br>
 
 ### 🎨 Soft Skills & Communication
 <details>
