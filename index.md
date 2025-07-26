@@ -43,7 +43,6 @@ I've launched a short, anonymous survey (about 2 minutes) to learn from people i
 📄 [Read about the project and goals](soft_skills_survey.md) <br>
 
 💬 **Your input helps:**
-
 <details>
 <summary>Click to expand</summary>
 
