@@ -10,6 +10,7 @@ This portfolio includes:
 - 💡 [Projects in R, Python, Wet-Lab Science, GxP & LIMS Concepts](https://dkMarina.github.io/projects)
 
 🔗 **Live Portfolio Website:** [dkMarina.github.io](https://dkMarina.github.io)
+
 📫 Contact: maryna.aumayr@gmail.com
 
 
