@@ -5,10 +5,12 @@ description: "A mini scientific survey on soft skills in early-career life scien
 layout: page
 ---
 ---
-### Soft Skills in Science: What Really Counts?
+### Soft Skills in Science: What Really Counts — According to Those Who Hire?
+> **📅 Survey Launch Date:** July 25, 2025  
+> **📄 Description:** A mini scientific survey on soft skills in early-career life science roles
+> 
 
- What do teams really value when hiring or onboarding young scientists?  
-
+What do teams really value when hiring or onboarding young scientists?  
 To find out, I created a short (2-minute), anonymous survey:
 
 👉 [Take the Survey](https://lnkd.in/dCs4Bej8)
@@ -28,8 +30,6 @@ This mini scientific survey is designed to help:
 
 ### Methodology
 
-**Title:** Soft Skills Survey for Your Life Science Roles
-
 **Goal:**  
 The survey was created to gather information on which soft skills and personal qualities are most valued by professionals in the life sciences field when hiring or collaborating with early-career specialists.
 
@@ -43,14 +43,11 @@ The survey is being shared via professional networks, social media platforms, an
 
 📊 The results will be published openly — both here and on my [LinkedIn](https://www.linkedin.com/in/maryna-aumayr-71110b93/)  — to support greater transparency in the hiring process and help early-career scientists better understand what truly matters to employers.
 
----
-
 **What’s Next:**  
 
 📌 Based on the findings, I’ll also share practical tips and content to help young professionals grow with confidence and clarity.
 
-
-🔗 **Explore my full portfolio at** [dkMarina.github.io](https://dkmarina.github.io)
+🔗  Explore my full portfolio at [dkMarina.github.io](https://dkMarina.github.io)
 
 ---
 
