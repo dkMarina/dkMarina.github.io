@@ -45,6 +45,7 @@ I've launched a short, anonymous survey (about 2 minutes) to learn from people i
 💬 **Your input helps:**
 <details>
 <summary>Click to expand</summary>
+<br>
 
 Young scientists prepare more effectively for real job expectations  <br>
 Build transparency between teams and job seekers  <br>
