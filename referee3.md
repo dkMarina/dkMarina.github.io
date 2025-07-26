@@ -8,4 +8,5 @@ layout: page
 **Sales Manager | Long-Term Language Services Client (IT Sector)**
 
 📄 [View Reference Snapshot](/assets/snapshot3.png)  
+<br>
 *Full contact details available upon request.*
