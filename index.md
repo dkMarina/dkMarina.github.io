@@ -12,16 +12,16 @@ Hi, I’m **Maryna Aumayr** — a [molecular biotechnology](assets/Curlum.png) g
 I pivoted from the world of words to the language of life sciences, combining creativity, precision, and data-driven thinking.  
 Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon — I’m all in.
 
----
+
 
 #### 🔍 Explore
 
-- 📄 [View My CV Page](cv.md) 
+- 📄 [My CV Page](cv.md) 
 - 🛠️  [Methods & Skills Toolbox](skills.md)
 - 🚀 [Featured Projects](projects.md) — R, Python, lab-based & more
-- 🤝 [Why Hire Me?](hireme.md)
+  
+#### 🤝 [Why Hire Me?](hireme.md)
 
----
 #### 📄 References
 🔗 [View reference snapshots](references.md) <br>
 *Details are kept private and available on request.*
