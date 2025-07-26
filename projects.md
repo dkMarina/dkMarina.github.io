@@ -20,6 +20,7 @@ Key contributions:
 - Developing essential  [GMP documents](/assets/SOP.png), including SOPs, organizational charts, and risk analyses
 - _Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
 
+<br>
 
 ### 🧬📚 Internship Project – Center for Genome Engineering, South Korea  
 
@@ -31,7 +32,7 @@ Key skills and techniques:
 - 3D oral epithelial cell culture  
 - Organized structured lab reporting
 
-
+<br>
 
 ### 🧪 Lab Tools 
   
@@ -53,7 +54,7 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 - [Primer Toolbox](https://github.com/dkMarina/primer_toolbox) 
 - [Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker) — a CLI tool to track experimental sample metadata.
 
-
+<br>
 
 ### 📊 Soft Skills in Science – Micro-Survey Project
 
@@ -62,7 +63,7 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 👉 [Take the survey here (about 2 mins)](https://lnkd.in/dCs4Bej8)
 
 **See the full project page for background and goals** → [Read more](soft_skills_survey.md)  
-
+<br>
 
 ### 🧑‍💻🗣️ Freelance Science Communication & Educational Content Development  
 
