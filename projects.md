@@ -8,6 +8,7 @@ Welcome to my **Selected Projects** — a curated set of hands‑on builds that 
 From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, and a lightweight LIMS prototype, each project spotlights real‑world skills, clear results, and my drive to keep learning by doing.
 
 ---
+<br>
 
 ### Bachelor Team Project: 🛡️ GxP Pharmaceutical Operations  
 <details>
@@ -23,9 +24,9 @@ Key contributions:
 - Developing essential  [GMP documents](/assets/SOP.png), including SOPs, organizational charts, and risk analyses
 - _Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
 </details>
+<br>
 
-
-### 👩‍🔬🔬📚 Internship Project – Center for Genome Engineering, IBS Korea  
+### 🧬📚 Internship Project – Center for Genome Engineering, South Korea  
 <details>
 <summary> Click to expand </summary>
 <br>
@@ -38,22 +39,22 @@ Key skills and techniques:
 - Organized structured lab reporting
 
 </details>
+<br>
 
 ### 🧪 Lab Tools 
-#### Excel-Based Projects
 <details>
 <summary> Click to expand </summary>
 <br>
+  
+#### Excel-Based Projects
 
 Explore Excel-based calculation and analysis tools I developed to support laboratory workflows as part of my internship, lab-based courses, and Bachelor thesis experiments. These tools include Immunofluorescence (IF) staining solution preparation, PCR master mix preparations, and protein quantification using Bradford assay ([Lab Tools Examples](https://dkMarina.github.io/assets/Lab_Tools/)).
 
 - [IF and PCR Solution Calculator](./assets/Lab_Tools/IF_and_PCR_Solution_Tools.xlsx)
 - [Bradford & Standard Curve Calculator](./assets/Lab_Tools/Bradford_and_StandardCurve_Calculators.xlsx)
-</details>
+
 
 #### R & Python Based Projects
-<details>
-<summary> Click to expand </summary>
 
 #### RStudio  
 - [Cytokine ELISA Analysis Project](https://github.com/dkMarina/Cytokine_ELISA_analysis) - Immunology data visualization and statistics using tidyverse and ggplot2.
@@ -64,6 +65,8 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 - [Lightweight LIMS Sample Tracker](https://github.com/dkMarina/lims_sample_tracker) — a CLI tool to track experimental sample metadata.
 
 </details>
+<br>
+
 
 ### 📊 Soft Skills in Science – Micro-Survey Project
 <details>
@@ -77,6 +80,8 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 **See the full project page for background and goals** → [Read more](soft_skills_survey.md)  
 
 </details>
+<br>
+
 
 ### 🧑‍💻🗣️ Freelance Science Communication & Educational Content Development  
 <details>
