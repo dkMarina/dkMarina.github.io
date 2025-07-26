@@ -13,28 +13,44 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 ### 🔬 Laboratory Techniques
 
 <details>
-<summary> Click to expand </summary>
-<br>
+<summary>Click to expand</summary>
 
+&nbsp;
 
-**Molecular Biology:**  
-PCR (endpoint & genotyping) · DNA/RNA extraction · Plasmid preparation · Molecular cloning (incl. SnapGene in silico design) · Gel electrophoresis · Nucleic acid quantification  
+**Molecular Biology**  
+• PCR (endpoint & genotyping)  
+• DNA/RNA extraction  
+• Plasmid preparation  
+• Molecular cloning (incl. SnapGene in silico design)  
+• Gel electrophoresis  
+• Nucleic acid quantification  
 
-**Protein Biochemistry:**  
-SDS-PAGE · Western blotting · Protein expression & purification (His-tag / affinity chromatography) · Enzyme assays & kinetics  
+**Protein Biochemistry**  
+• SDS-PAGE  
+• Western blotting  
+• Protein expression & purification (His-tag / affinity chromatography)  
+• Enzyme assays & kinetics  
 
-**Cell Culture & Handling:**  
-Mammalian & bacterial cell culture (2D monolayers & 3D organoids) · Routine cell culture techniques (splitting, cryopreservation, cell counting) · Transfection  
+**Cell Culture & Handling**  
+• Mammalian & bacterial cell culture (2D monolayers & 3D organoids)  
+• Routine cell culture techniques (splitting, cryopreservation, cell counting)  
+• Transfection  
 
-**Immunostaining & Microscopy:**  
-Immunofluorescence (IF) staining · Immunohistochemistry (IHC) · Confocal microscopy  
+**Immunostaining & Microscopy**  
+• Immunofluorescence (IF) staining  
+• Immunohistochemistry (IHC)  
+• Confocal microscopy  
 
-**Microbiology:**  
-Bacterial cultivation · Antibiotic resistance testing · Aseptic & sterile techniques  
+**Microbiology**  
+• Bacterial cultivation  
+• Antibiotic resistance testing  
+• Aseptic & sterile techniques  
 
-**Analytical & Chemical Methods:**  
-Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration  
-
+**Analytical & Chemical Methods**  
+• Chromatography (HPLC, TLC)  
+• Buffer preparation  
+• pH measurement  
+• Titration  
 
 </details>
 
