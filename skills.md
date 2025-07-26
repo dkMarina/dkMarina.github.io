@@ -54,7 +54,6 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 </details>
 
-<br>
 
 
 ### 💻 Digital & Data Skills
