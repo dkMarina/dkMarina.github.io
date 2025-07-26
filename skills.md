@@ -84,29 +84,31 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 ### 📚  Scientific Knowledge & Lab Experience
 
 <details>
-<summary> Click to expand </summary>
-<br>
+<summary>Click to expand</summary>
 
-- Gene expression regulation · Transcription factors · PCR genotyping
-- Autophagy pathways · Nutrient signaling · Starvation models
-- Transgenic animal models (e.g., tf-LC3 mouse for autophagy monitoring)
-- Familiar with experimental controls · Troubleshooting lab protocols
-- Fluent understanding of biosafety · Sample documentation · Quality standards
+&nbsp;
+
+• Gene expression regulation · Transcription factors · PCR genotyping  
+• Autophagy pathways · Nutrient signaling · Starvation models  
+• Transgenic animal models (e.g., tf-LC3 mouse for autophagy monitoring)  
+• Experimental controls · Protocol troubleshooting  
+• Biosafety principles · Sample documentation · Quality standards  
 
 </details>
-<br>
 
 
 ### 🎨 Soft Skills & Communication
 <details>
-<summary> Click to expand </summary>
-<br>
+<summary>Click to expand</summary>
 
-- Fluent in **English** and **German** · Native **Ukrainian** / **Russian**
-- B2-level **Turkish**, basic **French**
-- Strong **team collaboration** · Excellent **communication** skills
-- High attention to detail · Analytical mindset · Fast learner
-- Experienced in **scientific writing**, data presentation, and tutoring
+&nbsp;
+
+• Fluent in **English** and **German** · Native **Ukrainian** / **Russian**  
+• B2-level **Turkish**, basic **French**  
+• Strong **team collaboration** · Excellent **communication** skills  
+• High attention to detail · Analytical mindset · Fast learner  
+• Experienced in **scientific writing**, data presentation, and tutoring  
+
   
 </details>
 
