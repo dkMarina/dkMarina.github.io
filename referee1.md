@@ -13,7 +13,7 @@ layout: page
 <details>
 <summary>🔄 Click here for English translation</summary>
 
-
+<br>
 
 "...I am convinced that Ms. Aumayr will continue to pursue her path in research and development with great commitment and success in the future. She is an extremely motivated, reliable, and reflective personality who approaches challenges with curiosity and perseverance.
 
