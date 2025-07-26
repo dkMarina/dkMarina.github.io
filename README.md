@@ -13,7 +13,7 @@ This portfolio includes:
 ---
 
 🔗 **Live Portfolio Website:** [dkMarina.github.io](https://dkMarina.github.io)<br>
-🔗 **LinkedIn Profile:** [Maryna Aumayr](https://www.linkedin.com/in/maryna-aumayr-71110b93/)  
+🔗 **LinkedIn Profile:** [Maryna Aumayr](https://www.linkedin.com/in/maryna-aumayr-71110b93/) <br> 
 📫 **Contact:** maryna.aumayr@gmail.com
 
 
