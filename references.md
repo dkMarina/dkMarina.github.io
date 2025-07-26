@@ -10,7 +10,7 @@ For privacy reasons, full names and contact details are available upon request.*
 ---
 
 ## Rerereee 1  
-[Read reference snapshot](references/referee1.md)
+[Read reference snapshot](/assets/snapshot1.png)
 
 ## Rerereee 2  
 [Read reference snapshot](references/referee2.md)
