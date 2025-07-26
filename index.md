@@ -42,7 +42,7 @@ I've launched a short, anonymous survey (about 2 minutes) to learn from people i
 👉 [Take the survey here](https://lnkd.in/dCs4Bej8)<br>
 📄 [Read about the project and goals](soft_skills_survey.md) <br>
 
-💬 **Why your input matters:**
+💬 **Your input helps:**
 
 <details>
 <summary>Click to expand</summary>
