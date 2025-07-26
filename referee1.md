@@ -1,11 +1,10 @@
 ---
-title: "Reference from Rerereee 1"
+title: "Reference from Referee 1"
 layout: page
 ---
 
-**Referee 1**
-*University lecturer | Research Scientist| Project supervisor* 
-  
-[Read reference snapshot](references/snapshot1.md).
+## Referee 1  
+**University Lecturer | Research Scientist | Project Supervisor at FH Campus Wien**
 
+📄 [View Reference Snapshot](../references/snapshot1.png)  
 *Full contact details available upon request.*
