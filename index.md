@@ -17,8 +17,7 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 - 📄 [My CV Page](cv.md) 
 - 🛠️  [Methods & Skills Toolbox](skills.md)
 - 🚀 [Featured Projects](projects.md) — R, Python, lab-based & more
-  
-#### 🤝 [Why Hire Me?](hireme.md)
+-  🤝 [Why Hire Me?](hireme.md)
 
 #### 📄 References
 🔗 [View reference snapshots](references.md) <br>
@@ -55,7 +54,6 @@ Guide better career conversations <br>
 </details>
 
 <br>
-
 
 > _This isn’t just a portfolio — it’s a pivot in action._  
 Let’s connect ideas, skills, and new beginnings.
