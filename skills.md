@@ -35,6 +35,7 @@ Bacterial cultivation · Antibiotic resistance testing · Aseptic & sterile tech
 **Analytical & Chemical Methods:**  
 Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration  
 
+
 </details>
 
 <br>
@@ -61,6 +62,8 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 
 - **LIMS-style Data Tracking**:  
   - Created a lightweight metadata tracker in R to organize lab samples and experimental variables (📁 see [Project Page](projects.md))
+    
+    
 </details>
 <br>
 
@@ -91,6 +94,7 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 - Strong **team collaboration** · Excellent **communication** skills
 - High attention to detail · Analytical mindset · Fast learner
 - Experienced in **scientific writing**, data presentation, and tutoring
+  
 </details>
 
 
