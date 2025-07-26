@@ -40,7 +40,7 @@ I've launched a short, anonymous survey (about 2 minutes) to learn from people i
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
 - 📧 maryna.aumayr@gmail.com   
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maryna-aumayr-71110b93/)
