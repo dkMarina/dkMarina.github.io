@@ -20,7 +20,13 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 - 🛠️  [Methods & Skills Toolbox](skills.md)
 - 🚀 [Featured Projects](projects.md) — R, Python, lab-based & more
 - 🤝 [Why Hire Me?](hireme.md)
-- 📄 [References & Recommendations](references.md)
+---
+#### 📄 References
+
+📌 I’m happy to provide references upon request.  
+🔗 [View sample reference snapshots](./reference1.md)  
+*(Full names and contact details are kept private and available on request.)*
+
 ---
 
 #### 📊 Micro Research Project: What Really Counts in Life Science Careers?
