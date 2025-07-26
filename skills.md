@@ -3,7 +3,7 @@ layout: page
 title: 🛠️ Skills & Methods Toolbox
 permalink: /skills/
 ---
----
+
 
 Welcome to my **Skills & Methods Toolbox** — where hands-on lab techniques, scientific know-how, and digital tools converge.  
 This page maps the practical skills I’ve honed through rigorous training, academic projects, and self-driven learning — the foundation that powers my readiness for real-world challenges in molecular biotech and beyond.
