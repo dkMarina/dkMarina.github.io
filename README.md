@@ -8,6 +8,7 @@ This portfolio includes:
 - 📄 [CV](https://dkMarina.github.io/cv)
 - 🧰 [Skills & Methods Toolbox](https://dkMarina.github.io/skills)
 - 💡 [Projects in R, Python, Wet-Lab Science, GxP & LIMS Concepts](https://dkMarina.github.io/projects)
+- 📌 [References & Testimonials](references.md)  — full details available upon request.
 
 ---
 
