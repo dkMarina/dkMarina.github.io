@@ -3,17 +3,17 @@ title: "Professional References"
 layout: page
 ---
 
+---
 
-*Below are selected testimonials and excerpts from professional references.  
-For privacy reasons, full names and contact details are available upon request.*
+Below are selected testimonials and excerpts from professional references that speak to my academic and professional contributions.
+
+*🔒 For privacy reasons, full names and contact details, as well as the full reference texts, are available upon request.*
 
 ---
 
-## [Rerereee 1](/referee1.md)  
+### [Rererence 1](/referee1.md)  
 
 
-## Rerereee 2  
-[Read reference snapshot](references/referee2.md)
+### [Rererence 2](/referee2.md)
 
-## Rerereee 3  
-[Read reference snapshot](references/referee3.md)
+### [Rererence 3](/referee3.md)
