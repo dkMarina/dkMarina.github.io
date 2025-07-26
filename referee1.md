@@ -6,5 +6,5 @@ layout: page
 ## Referee 1  
 **University Lecturer | Research Scientist | Project Supervisor**
 
-📄 [View Reference Snapshot](../references/snapshot1.png)  
+📄 [View Reference Snapshot](../assets/snapshot1.png)  
 *Full contact details available upon request.*
