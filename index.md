@@ -22,25 +22,25 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 - 🤝 [Why Hire Me?](hireme.md)
 
 ---
-## 📊 Micro Research Project: What Really Counts in Life Science Careers?
+#### 📊 Micro Research Project: What Really Counts in Life Science Careers?
 
 What soft skills matter most for young professionals entering biotech and life sciences?
 
-I've launched a short, anonymous survey (under 3 minutes) to learn from people in the field — hiring managers, team leads, and early-career scientists alike.
+I've launched a short, anonymous survey (about 2 minutes) to learn from people in the field — hiring managers, team leads, and early-career scientists alike.
 
 💬 **Your input helps:**
 - Young scientists prepare more effectively for real job expectations
 - Build transparency between teams and job seekers
 - Guide better career conversations
 
-👉 [Take the survey here (2 mins)](https://lnkd.in/dCs4Bej8)
+👉 [Take the survey here](https://lnkd.in/dCs4Bej8)
 
 📄 [Read about the project and goals](soft_skills_survey.md)
 
 
 ---
 
-#### 📬 Contact
+## 📬 Contact
 
 - 📧 maryna.aumayr@gmail.com   
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maryna-aumayr-71110b93/)
