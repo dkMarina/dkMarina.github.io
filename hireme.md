@@ -5,6 +5,7 @@ permalink: /hireme/
 ---
 \
 **Why should you hire me?**  
+
 Why not? Sounds like a win!  
 You’re not just after someone to quietly fit in—  
 
@@ -23,6 +24,7 @@ Curiosity, calm, and smarts matter most.
 When your candidate pool feels crowded and dense,  
 Your choice will be clear — and guess who makes sense?  
 **Spoiler alert: it’s me, no pretense!**
+<br>
 
 ---
 I wrote this poem as a creative take on the classic "Why should we hire you?" question — blending biotech, language, and mindset into one short pitch.
