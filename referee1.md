@@ -7,6 +7,7 @@ layout: page
 **University Lecturer | Research Scientist | Project Supervisor**
 
 📄 [View Reference Snapshot](/assets/snapshot1.png)  
+<br>
 *Full contact details available upon request.*
 
 
