@@ -20,8 +20,9 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 - 🛠️  [Methods & Skills Toolbox](skills.md)
 - 🚀 [Featured Projects](projects.md) — R, Python, lab-based & more
 - 🤝 [Why Hire Me?](hireme.md)
-
+- 📄 [References](references.md)
 ---
+
 #### 📊 Micro Research Project: What Really Counts in Life Science Careers?
 
 What soft skills matter most for young professionals entering biotech and life sciences?
