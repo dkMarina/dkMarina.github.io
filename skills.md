@@ -16,6 +16,7 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 <summary> Click to expand </summary>
 <br>
 
+
 **Molecular Biology:**  
 PCR (endpoint & genotyping) · DNA/RNA extraction · Plasmid preparation · Molecular cloning (incl. SnapGene in silico design) · Gel electrophoresis · Nucleic acid quantification  
 
@@ -38,11 +39,13 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 
 <br>
 
+
 ### 💻 Digital & Data Skills
 
 <details>
 <summary> Click to expand </summary>
 <br>
+
 
 - **Data Analysis**:
   - Excel (lab workflow calculations · reporting · QC), [Lab Tools Examples](https://dkMarina.github.io/assets/Lab_Tools/)
@@ -61,6 +64,7 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 </details>
 <br>
 
+
 ### 📚  Scientific Knowledge & Lab Experience
 
 <details>
@@ -75,6 +79,7 @@ Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration
 
 </details>
 <br>
+
 
 ### 🎨 Soft Skills & Communication
 <details>
