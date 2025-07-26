@@ -20,13 +20,11 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 - 🛠️  [Methods & Skills Toolbox](skills.md)
 - 🚀 [Featured Projects](projects.md) — R, Python, lab-based & more
 - 🤝 [Why Hire Me?](hireme.md)
-  
+
 ---
 #### 📄 References
-
-📌 I’m happy to provide references upon request.  
-🔗 [View reference snapshots](references.md) 
-*(Full names and contact details are kept private and available on request.)*
+🔗 [View reference snapshots](references.md) <br>
+*Details are kept private and available on request.*
 
 ---
 
