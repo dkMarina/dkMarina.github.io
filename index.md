@@ -54,8 +54,8 @@ Guide better career conversations <br>
 
 </details>
 
+<br>
 
----
 
 > _This isn’t just a portfolio — it’s a pivot in action._  
 Let’s connect ideas, skills, and new beginnings.
