@@ -12,8 +12,6 @@ Hi, I’m **Maryna Aumayr** — a [molecular biotechnology](assets/Curlum.png) g
 I pivoted from the world of words to the language of life sciences, combining creativity, precision, and data-driven thinking.  
 Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon — I’m all in.
 
-
-
 #### 🔍 Explore
 
 - 📄 [My CV Page](cv.md) 
@@ -26,6 +24,12 @@ Whether it's PCR in the lab, R code in RStudio, or decoding regulatory jargon �
 🔗 [View reference snapshots](references.md) <br>
 *Details are kept private and available on request.*
 
+#### 📬 Contact
+
+- 📧 maryna.aumayr@gmail.com   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maryna-aumayr-71110b93/)
+
+
 ---
 
 #### 📊 Micro Research Project: What Really Counts in Life Science Careers?
@@ -34,21 +38,20 @@ What soft skills matter most for young professionals entering biotech and life s
 
 I've launched a short, anonymous survey (about 2 minutes) to learn from people in the field — hiring managers, team leads, and early-career scientists alike.
 
-💬 **Your input helps:**
-- Young scientists prepare more effectively for real job expectations
-- Build transparency between teams and job seekers
-- Guide better career conversations
 
 👉 [Take the survey here](https://lnkd.in/dCs4Bej8)<br>
-📄 [Read about the project and goals](soft_skills_survey.md)
+📄 [Read about the project and goals](soft_skills_survey.md) <br>
 
+💬 **Why your input matters:**
 
----
+<details>
+<summary>Click to expand</summary>
 
-### 📬 Contact
+Young scientists prepare more effectively for real job expectations  
+Build transparency between teams and job seekers  
+Guide better career conversations
 
-- 📧 maryna.aumayr@gmail.com   
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maryna-aumayr-71110b93/)
+</details>
 
 ---
 
