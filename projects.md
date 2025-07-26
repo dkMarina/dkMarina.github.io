@@ -8,7 +8,6 @@ Welcome to my **Selected Projects** — a curated set of hands‑on builds that 
 From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, and a lightweight LIMS prototype, each project spotlights real‑world skills, clear results, and my drive to keep learning by doing.
 
 ---
-<br>
 
 ### Bachelor Team Project: 🛡️ GxP Pharmaceutical Operations  
 <details>
