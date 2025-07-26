@@ -9,8 +9,8 @@ For privacy reasons, full names and contact details are available upon request.*
 
 ---
 
-## Rerereee 1  
-[Read reference snapshot](/assets/snapshot1.png)
+## [Rerereee 1](/referee1.md)  
+
 
 ## Rerereee 2  
 [Read reference snapshot](references/referee2.md)
