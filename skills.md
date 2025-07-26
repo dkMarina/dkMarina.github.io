@@ -12,17 +12,36 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 ### 🔬 Laboratory Techniques
 
-- **Molecular Biology**: PCR (endpoint & genotyping) · DNA/RNA extraction · Plasmid preparation · Molecular cloning (incl. SnapGene in silico design) · Gel electrophoresis · Nucleic acid quantification  
-- **Protein Biochemistry**: SDS-PAGE · Western blotting · Protein expression & purification (His-tag / affinity chromatography) · Enzyme assays & kinetics  
-- **Cell Culture & Handling**: Mammalian & bacterial cell culture (2D monolayers & 3D organoids) · Routine cell culture techniques (splitting, cryopreservation, cell counting) · Transfection  
-- **Immunostaining & Microscopy**: Immunofluorescence (IF) staining · Immunohistochemistry (IHC) · Confocal microscopy  
-- **Microbiology**: Bacterial cultivation · Antibiotic resistance testing · Aseptic & sterile techniques  
-- **Analytical & Chemical Methods**: Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration  
+<details>
+<summary> Click to expand </summary>
+<br>
 
+**Molecular Biology:**  
+PCR (endpoint & genotyping) · DNA/RNA extraction · Plasmid preparation · Molecular cloning (incl. SnapGene in silico design) · Gel electrophoresis · Nucleic acid quantification  
 
----
+**Protein Biochemistry:**  
+SDS-PAGE · Western blotting · Protein expression & purification (His-tag / affinity chromatography) · Enzyme assays & kinetics  
+
+**Cell Culture & Handling:**  
+Mammalian & bacterial cell culture (2D monolayers & 3D organoids) · Routine cell culture techniques (splitting, cryopreservation, cell counting) · Transfection  
+
+**Immunostaining & Microscopy:**  
+Immunofluorescence (IF) staining · Immunohistochemistry (IHC) · Confocal microscopy  
+
+**Microbiology:**  
+Bacterial cultivation · Antibiotic resistance testing · Aseptic & sterile techniques  
+
+**Analytical & Chemical Methods:**  
+Chromatography (HPLC, TLC) · Buffer preparation · pH measurement · Titration  
+
+</details>
+
 
 ### 💻 Digital & Data Skills
+
+<details>
+<summary> Click to expand </summary>
+<br>
 
 - **Data Analysis**:
   - Excel (lab workflow calculations · reporting · QC), [Lab Tools Examples](https://dkMarina.github.io/assets/Lab_Tools/)
@@ -38,10 +57,14 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 
 - **LIMS-style Data Tracking**:  
   - Created a lightweight metadata tracker in R to organize lab samples and experimental variables (📁 see [Project Page](projects.md))
+</details>
 
----
 
 ### 📚  Scientific Knowledge & Lab Experience
+
+<details>
+<summary> Click to expand </summary>
+<br>
 
 - Gene expression regulation · Transcription factors · PCR genotyping
 - Autophagy pathways · Nutrient signaling · Starvation models
@@ -49,16 +72,19 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 - Familiar with experimental controls · Troubleshooting lab protocols
 - Fluent understanding of biosafety · Sample documentation · Quality standards
 
----
+</details>
 
 ### 🎨 Soft Skills & Communication
+<details>
+<summary> Click to expand </summary>
+<br>
 
 - Fluent in **English** and **German** · Native **Ukrainian** / **Russian**
 - B2-level **Turkish**, basic **French**
 - Strong **team collaboration** · Excellent **communication** skills
 - High attention to detail · Analytical mindset · Fast learner
 - Experienced in **scientific writing**, data presentation, and tutoring
+</details>
 
----
 
 
