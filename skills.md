@@ -60,28 +60,25 @@ This page maps the practical skills I’ve honed through rigorous training, acad
 ### 💻 Digital & Data Skills
 
 <details>
-<summary> Click to expand </summary>
-<br>
+<summary>Click to expand</summary>
 
+&nbsp;
 
-- **Data Analysis**:
-  - Excel (lab workflow calculations · reporting · QC), [Lab Tools Examples](https://dkMarina.github.io/assets/Lab_Tools/)
-  - R / RStudio (ggplot2 · dplyr · tidyverse · data wrangling & visualization), 📁 See [Projects Page](projects.md) 
-  - Python (BioPython · DNA sequence scripting), 📁 See [Projects Page](projects.md) 
-  - ImageJ & Fiji (image analysis)
-  - LaTeX & Markdown (scientific writing & formatting)
-  - Git & GitHub (version control, collaboration)
- 
+**Data Analysis**  
+• Excel — lab workflow calculations, reporting, QC ([Lab Tools Examples](https://dkMarina.github.io/assets/Lab_Tools/))  
+• R / RStudio — `ggplot2`, `dplyr`, `tidyverse`, data wrangling & visualization ([Projects Page](projects.md))  
+• Python — BioPython, DNA sequence scripting ([Projects Page](projects.md))  
+• ImageJ & Fiji — image analysis  
+• LaTeX & Markdown — scientific writing & formatting  
+• Git & GitHub — version control & collaboration  
 
-- **Bioinformatics**:
-  - BLAST · Sequence alignment · Primer design basics
+**Bioinformatics**  
+• BLAST, sequence alignment, basic primer design  
 
-- **LIMS-style Data Tracking**:  
-  - Created a lightweight metadata tracker in R to organize lab samples and experimental variables (📁 see [Project Page](projects.md))
-    
-    
+**LIMS-style Data Tracking**  
+• Developed a lightweight metadata tracker in R to organize lab samples and experimental variables ([Projects Page](projects.md))
+
 </details>
-<br>
 
 
 ### 📚  Scientific Knowledge & Lab Experience
