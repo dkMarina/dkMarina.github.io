@@ -45,7 +45,7 @@ The survey is being shared via professional networks, social media platforms, an
 📊 The results will be published openly — both here and on my [LinkedIn](https://www.linkedin.com/in/maryna-aumayr-71110b93/) — to support greater transparency in the hiring process and help early-career scientists better understand what truly matters to employers.
 
 </details>
-
+<br>
 
 **What’s Next:**  
 
