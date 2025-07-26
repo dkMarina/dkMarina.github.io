@@ -20,8 +20,11 @@ This mini scientific survey is designed to help:
 - **Young scientists** understand what really matters to employers beyond the hard skills
 - **Early-career applicants** improve their job documents and interview prep
 - **Team leads & hiring managers** reflect on how they evaluate soft skills
+  
 
 ---
+
+
 
 ### Methodology
 
