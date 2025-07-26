@@ -1,3 +1,4 @@
+---
 layout: page
 title: 🛠️ Skills & Methods Toolbox
 permalink: /skills/
