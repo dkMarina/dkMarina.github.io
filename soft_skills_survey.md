@@ -15,7 +15,6 @@ To find out, I created a short (2-minute), anonymous survey:  👉 [Take the Sur
 <br>
 
 #### Why this project?
-
 This mini scientific survey is designed to help:
 
 - **Young scientists** understand what really matters to employers beyond the hard skills
@@ -28,20 +27,23 @@ This mini scientific survey is designed to help:
 
 <details>
 <summary> Click to expand</summary>
-<br>
   
+<br>
 Goal:  
-The survey was created to gather information on which soft skills and personal qualities are most valued by professionals in the life sciences field when hiring or collaborating with early-career specialists. <br>
+The survey was created to gather information on which soft skills and personal qualities are most valued by professionals in the life sciences field when hiring or collaborating with early-career specialists.  <br>
 
-Audience:  
-The survey targets team leads, hiring managers, and talent acquisition professionals primarily within the life sciences sector. <br>
+<br>
+Audience: The survey targets team leads, hiring managers, and talent acquisition professionals primarily within the life sciences sector. <br>
 
+<br>
 Method: 
-The survey is a brief, anonymous online questionnaire, hosted on Google Forms, and designed for quick completion. It combines quantitative ranking questions and qualitative open-ended prompts to capture both prioritized soft skills and deeper insights from respondents. Additional questions classify participants by their professional background to contextualize the results. <br>
+The survey is a brief, anonymous online questionnaire, hosted on Google Forms, and designed for quick completion. It combines quantitative ranking questions and qualitative open-ended prompts to capture both prioritized soft skills and deeper insights from respondents. Additional questions classify participants by their professional background to contextualize the results.  <br>
 
-The survey is being shared via professional networks, social media platforms, and personal outreach to relevant contacts in the life sciences field. Once responses are collected, the data will be analyzed statistically and visualized to highlight key patterns and insights. <br>
+<br>
+The survey is being shared via professional networks, social media platforms, and personal outreach to relevant contacts in the life sciences field. Once responses are collected, the data will be analyzed statistically and visualized to highlight key patterns and insights. 
 
 </details>
+
 <br>
 
 **What’s Next:**  
