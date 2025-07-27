@@ -71,8 +71,10 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 
 ### 🧑‍💻🗣️ Freelance Science Communication & Educational Content Development  
 
-Bridging complex science and clear communication by:  <details>
+Bridging complex science and clear communication by:  
+<details>
 <summary> Click to expand </summary>
+<br>
 
 Multilingual translation of biotech and regulatory documents  <br>
 Designing custom curricula and teaching materials, including a textbook  <br>
