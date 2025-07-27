@@ -60,4 +60,5 @@ The survey is being shared via professional networks, social media platforms, an
 
 <br>
 
-> _ Let’s build a more transparent, human, and collaborative approach to science careers._ 
+
+>_Let’s build a more transparent, human, and collaborative approach to science careers._ 
