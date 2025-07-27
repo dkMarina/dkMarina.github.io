@@ -8,12 +8,10 @@ layout: page
 ### Soft Skills in Science: What Really Counts — According to Those Who Hire?
 > **📅 Survey Launch Date:** July 25, 2025  
 > **📄 Description:** A mini scientific survey on soft skills in early-career life science roles
-> 
 <br>
 What do teams really value when hiring or onboarding young scientists?  <br>
-To find out, I created a short (2-minute), anonymous survey:
-
-👉 [Take the Survey](https://lnkd.in/dCs4Bej8)
+To find out, I created a short (2-minute), anonymous survey:  👉 [Take the Survey](https://lnkd.in/dCs4Bej8)
+<br>
 
 #### Why this project?
 
