@@ -9,9 +9,9 @@ From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, a
 
 ---
 
-### Bachelor Team Project: 🛡️ GxP Pharmaceutical Operations  
+### Team Project: 🛡️ GxP Pharmaceutical Operations  
 
-_As part of my studies_ — collaborated on a simulated launch of a [GMP-compliant pharmaceutical company](/assets/Variae.png).  
+_During my bachelor’s degree program_ — collaborated on a simulated launch of a [GMP-compliant pharmaceutical company](/assets/Variae.png).  
 Key contributions:  
 
 - Designing the company logo to establish a professional brand identity
