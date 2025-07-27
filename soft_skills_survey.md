@@ -54,6 +54,6 @@ The survey is being shared via professional networks, social media platforms, an
 
 🔗  Explore my full portfolio at [dkMarina.github.io](https://dkMarina.github.io)
 
----
+<br>
 
-Let’s build a more transparent, human, and collaborative approach to science careers.
+> _ Let’s build a more transparent, human, and collaborative approach to science careers._ 
