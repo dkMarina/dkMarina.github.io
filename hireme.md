@@ -5,7 +5,7 @@ permalink: /hireme/
 ---
 ---
 
-Welcome to my **“Why Hire Me”** page - a space where I share a creative reflection on what I bring to **your** team. This page is about voice, originality, and how I think — **which** goes far beyond a list of skills in my CV.
+Welcome to my **“Why Hire Me”** page - a space where I share a creative reflection on what I bring to **your** team. This page is about voice, originality, and how I think — **which** goes far beyond a list of skills in my CV.<br>
 
 I wrote this poem as a creative take on the classic  
 *“Why should we hire you?”* question — blending biotech, language, and mindset into one short pitch.
