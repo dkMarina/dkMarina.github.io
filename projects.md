@@ -71,7 +71,7 @@ Bridging complex science and clear communication by:
 - Multilingual translation of biotech and regulatory documents  
 - Designing custom curricula and teaching materials, including a textbook  
 - Coaching life science students across levels
-
+<br>
 
 > ## _What’s Next?_  
 > Let’s turn potential into impact — I’m ready when you are.
