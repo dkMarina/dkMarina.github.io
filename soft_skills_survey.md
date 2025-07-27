@@ -5,7 +5,9 @@ description: "A mini scientific survey on soft skills in early-career life scien
 layout: page
 ---
 
-### Soft Skills in Science: What Really Counts — According to Those Who Hire?
+<br>
+
+#### Soft Skills in Science: What Really Counts — According to Those Who Hire?
 > **📅 Survey Launch Date:** July 25, 2025  
 > **📄 Description:** A mini scientific survey on soft skills in early-career life science roles
 <br>
@@ -23,7 +25,9 @@ This mini scientific survey is designed to help:
   
 
 ---
-### 📋 Survey Design & Methodology 
+<br>
+
+#### 📋 Survey Design & Methodology 
 
 <details>
 <summary> Click to expand</summary>
