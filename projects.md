@@ -62,7 +62,7 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 
 👉 [Take the survey here (about 2 mins)](https://lnkd.in/dCs4Bej8)
 
-**See the full project page for background and goals** → [Read more](soft_skills_survey.md)  
+- See the full project page for background and goals → [Read more](soft_skills_survey.md)  
 <br>
 
 ### 🧑‍💻🗣️ Freelance Science Communication & Educational Content Development  
