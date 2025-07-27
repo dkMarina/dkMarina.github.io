@@ -13,12 +13,12 @@ From wet‑lab autophagy assays to R/Python data pipelines, GxP documentation, a
 
 _During my bachelor’s degree program_ — collaborated on a simulated launch of a [GMP-compliant pharmaceutical company](/assets/Variae.png).  
 Key contributions:  
-
 - Designing the company logo to establish a professional brand identity
 - Coordinating and facilitating team meetings to ensure efficient collaboration
 - Drafting and presenting audit milestone scripts that guided compliance reviews
 - Developing essential  [GMP documents](/assets/SOP.png), including SOPs, organizational charts, and risk analyses
-- _Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
+
+_Experience gained_: pharmaceutical quality systems, team collaboration, regulatory compliance.
 
 <br>
 
@@ -26,12 +26,16 @@ Key contributions:
 
 Bachelor thesis & internship focused on stem cell immune evasion and developing a [tf‑LC3 reporter mouse model](/assets/tf-LC3.png) to monitor autophagy in GI tissues.  
 Key skills and techniques:  
-- PCR genotyping & mouse tissue preparation  
-- Immunohistochemistry (IHC) & immunofluorescence (IF) staining  
-- Confocal microscopy imaging & analysis  
-- 3D oral epithelial cell culture  
-- Organized structured lab reporting
+<details>
+<summary> Click to expand </summary>
+  
+<br> PCR genotyping & mouse tissue preparation   <br>
+ Immunohistochemistry (IHC) & immunofluorescence (IF) staining  <br>
+Confocal microscopy imaging & analysis  <br>
+3D oral epithelial cell culture  <br>
+Organized structured lab reporting <br>
 
+</details> 
 <br>
 
 ### 🧪 Lab Tools 
@@ -67,10 +71,15 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 
 ### 🧑‍💻🗣️ Freelance Science Communication & Educational Content Development  
 
-Bridging complex science and clear communication by:  
-- Multilingual translation of biotech and regulatory documents  
-- Designing custom curricula and teaching materials, including a textbook  
-- Coaching life science students across levels
+Bridging complex science and clear communication by:  <details>
+<summary> Click to expand </summary>
+
+Multilingual translation of biotech and regulatory documents  <br>
+Designing custom curricula and teaching materials, including a textbook  <br>
+Coaching life science students across levels <br>
+
+</details>
+
 <br>
 
 > ## _What’s Next?_  
