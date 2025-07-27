@@ -11,9 +11,8 @@ Below are snapshots of selected references and testimonials that speak to my con
 
 ---
 
-### [Rererence 1](/referee1.md)  
+#### [Reference 1](/referee1.md)  
 
+#### [Reference 2](/referee2.md)
 
-### [Rererence 2](/referee2.md)
-
-### [Rererence 3](/referee3.md)
+#### [Reference 3](/referee3.md)
