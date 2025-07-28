@@ -60,7 +60,7 @@ Explore Excel-based calculation and analysis tools I developed to support labora
 
 <br>
 
-### 📊 Soft Skills in Science – Micro-Survey Project
+### 📊 Soft Skills in Science – Survey Project
 
 - On July 25, 2025, I launched a short, anonymous survey to gather real input from team leaders and hiring professionals on which soft skills and personal qualities are most valued when starting out in life sciences.
 
